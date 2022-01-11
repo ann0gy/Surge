@@ -108,8 +108,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: hk1.shuttle.mobi
   servername: hk1.shuttle.mobi
 - name: HK丨0.7倍丨香港2丨NF
@@ -120,8 +120,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: hk2.shuttle.mobi
   servername: hk2.shuttle.mobi
 - name: HK丨0.7倍丨香港3丨NF
@@ -132,8 +132,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: hk3.shuttle.mobi
   servername: hk3.shuttle.mobi
 - name: HK丨2.0倍丨香港4丨NF
@@ -168,8 +168,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: tw1.shuttle.mobi
   servername: tw1.shuttle.mobi
 - name: TW丨0.7倍丨台湾2丨NF
@@ -180,8 +180,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: tw2.shuttle.mobi
   servername: tw2.shuttle.mobi
 - name: TW丨2.0倍丨台湾3丨NF
@@ -208,8 +208,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: jp1.shuttle.mobi
   servername: jp1.shuttle.mobi
 - name: JP丨2.0倍丨日本2丨NF
@@ -228,8 +228,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: kr1.shuttle.mobi
   servername: kr1.shuttle.mobi
 - name: KR丨2.0倍丨韩国2丨NF
@@ -248,8 +248,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: sg1.shuttle.mobi
   servername: sg1.shuttle.mobi
 - name: SG丨2.0倍丨新加坡2丨NF
@@ -268,8 +268,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: in1.shuttle.mobi
   servername: in1.shuttle.mobi
 - name: IN丨2.0倍丨印度2丨NF
@@ -288,8 +288,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: ph1.shuttle.mobi
   servername: ph1.shuttle.mobi
 - name: PH丨2.0倍丨菲律宾2丨NF
@@ -308,8 +308,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: us1.shuttle.mobi
   servername: us1.shuttle.mobi
 - name: US丨2.0倍丨加利福利亚2丨NF
@@ -328,8 +328,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: us2.shuttle.mobi
   servername: us2.shuttle.mobi
 - name: US丨2.0倍丨纽约2丨YT
@@ -348,8 +348,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: us3.shuttle.mobi
   servername: us3.shuttle.mobi
 - name: US丨2.0倍丨得克萨斯2丨YT
@@ -368,8 +368,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: us4.shuttle.mobi
   servername: us4.shuttle.mobi
 - name: US丨2.0倍丨佛罗里达2丨NF
@@ -388,8 +388,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: us5.shuttle.mobi
   servername: us5.shuttle.mobi
 - name: US丨2.0倍丨华盛顿2丨YT
@@ -408,8 +408,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: us6.shuttle.mobi
   servername: us6.shuttle.mobi
 - name: US丨2.0倍丨俄勒冈2丨NF
@@ -428,8 +428,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: ca1.shuttle.mobi
   servername: ca1.shuttle.mobi
 - name: CA丨2.0倍丨加拿大2丨YT
@@ -448,8 +448,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: ar1.shuttle.mobi
   servername: ar1.shuttle.mobi
 - name: AR丨2.0倍丨阿根廷2丨NF
@@ -468,8 +468,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: br1.shuttle.mobi
   servername: br1.shuttle.mobi
 - name: BR丨2.0倍丨巴西2丨NF
@@ -488,8 +488,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: uk1.shuttle.mobi
   servername: uk1.shuttle.mobi
 - name: UK丨2.0倍丨英国2丨NF
@@ -508,8 +508,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: fr1.shuttle.mobi
   servername: fr1.shuttle.mobi
 - name: FR丨2.0倍丨法国2丨YT
@@ -528,8 +528,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: de1.shuttle.mobi
   servername: de1.shuttle.mobi
 - name: DE丨2.0倍丨德国2丨NF
@@ -548,8 +548,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: it1.shuttle.mobi
   servername: it1.shuttle.mobi
 - name: IT丨2.0倍丨意大利2丨NF
@@ -568,8 +568,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: nl1.shuttle.mobi
   servername: nl1.shuttle.mobi
 - name: NL丨2.0倍丨荷兰2丨NF
@@ -588,8 +588,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: se1.shuttle.mobi
   servername: se1.shuttle.mobi
 - name: SE丨2.0倍丨瑞典2丨NF
@@ -608,8 +608,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: ru1.shuttle.mobi
   servername: ru1.shuttle.mobi
 - name: RU丨2.0倍丨俄罗斯2丨NF
@@ -628,8 +628,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: tr1.shuttle.mobi
   servername: tr1.shuttle.mobi
 - name: TR丨2.0倍丨土耳其2丨NF
@@ -648,8 +648,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: au1.shuttle.mobi
   servername: au1.shuttle.mobi
 - name: AU丨2.0倍丨澳大利亚2丨YT
@@ -668,8 +668,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: nz1.shuttle.mobi
   servername: nz1.shuttle.mobi
 - name: NZ丨2.0倍丨新西兰2丨NF
@@ -688,8 +688,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: eg1.shuttle.mobi
   servername: eg1.shuttle.mobi
 - name: EG丨2.0倍丨埃及2丨NF
@@ -708,8 +708,8 @@ proxies:
   alterId: 1
   cipher: auto
   network: ws
-  ws_opts_path: "/websocket"
-  ws_opts_headers:
+  ws-opts-path: "/websocket"
+  ws-opts-headers:
     Host: za1.shuttle.mobi
   servername: za1.shuttle.mobi
 - name: ZA丨2.0倍丨南非2丨NF
